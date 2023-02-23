@@ -3,11 +3,11 @@
   height:110px;
   border-style:solid;
   border-width:10px;
-  border-color: #9573AF #9573AF #9573AF #9573AF;} 
+  border-color: #9573AF;} 
 
 .eowyn2 {
   width:150px;
   height:110px;
   border-style:solid;
   border-width:10px;
-  border-color: #fdfd96 #fdfd96 #fdfd96 #fdfd96;} 
+  border-color: #fdfd96;} 
